@@ -24,6 +24,6 @@ STEPS TO FOLLOW:
 6. BUT FOR USER OPEN THE GOOGLE CHROME AND TYPE 'http://localhost/foodclub(tastethebest)/user/login.php/' for logging in as user
    AFTER LOGGING IN YOU WILL GET ACCESS TO 'index.php'
 
-
 7. I HAVE CREATED A DATABASE AND NAMED IT "foodsys". 
 
+ThankYou ^-^ !!!!
